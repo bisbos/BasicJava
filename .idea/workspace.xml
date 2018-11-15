@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38a80bf7-4db6-4348-be1d-c6163e39aece" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LowestCommonAncestor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/LowestCommonAncestor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueueLinkList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dataStructures/QueueLinkList.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ConvertInfixToPostfix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dataStructures/ConvertInfixToPostfix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConvertStringToInteger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/basicJava/stringstudy/ConvertStringToInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/ReverseSentence.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/sorting/MyMergeSort.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/sorting/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/sorting/MergeSort2.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/sorting/MergeSort1.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/sorting/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/arraysAndNumbers/RemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/coding/ArraysAndStrings/StringPermutation.java" />
+        <option value="$PROJECT_DIR$/src/coding/ArraysAndStrings/StringOneEditAway.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/AnagramEx.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/AnagramEx1.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/ConvertStringToInteger.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/AnagramRemElements.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/AnagramRemoveElements.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/StringPatternSearch_Naive.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/StringPatternSearch_KMP.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/StringPatternSearch_RobinKarp.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/AnagramSubstringSearch.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/MaxOccuranceRepeatedWords.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/MaxOccuranceComparable.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/SentenceReverse.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/AnagramCount.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/AnagramCount1.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/arraysAndNumbers/CalculatePower.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/arraysAndNumbers/MissingNumber.java" />
+        <option value="$PROJECT_DIR$/src/coding/ArraysAndNumbers/FibanocciSeries.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/linkedlist/DetectAndRemoveLoop.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/linkedlist/LinkedListDelMid.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/linkedlist/ReverseLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/coding/leetcode/TrappingRainWater_42.java" />
+        <option value="$PROJECT_DIR$/src/coding/leetcode/TwoSum_1.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/linkedlist/Link.java" />
+        <option value="$PROJECT_DIR$/src/coding/leetcode/AddTwoNumbers_2.java" />
+        <option value="$PROJECT_DIR$/src/coding/leetcode/ReverseInteger_7.java" />
+        <option value="$PROJECT_DIR$/src/coding/leetcode/StringToInteger.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/tree/IsTreeBST.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/tree/TreeEx.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/tree/TreeCreateMirrorAndValidate.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/tree/SumOfNumbersInTree.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/tree/RootToLeafSumNodes.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/tree/RootToLeafSum.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/tree/RootToLeafSumMatch.java" />
+        <option value="$PROJECT_DIR$/src/dataStructures/tree/TreeFindMaximum.java" />
+        <option value="$PROJECT_DIR$/src/coding/hardQ/StringDuplicateIDsFiles.java" />
+        <option value="$PROJECT_DIR$/src/coding/leetcode/LongestSubstringNonRepeatChar_3.java" />
+        <option value="$PROJECT_DIR$/src/coding/leetcode/LongestPalindromeSubstring_5.java" />
+        <option value="$PROJECT_DIR$/src/coding/ArraysAndNumbers/MergeAndRemoveDupsArray.java" />
+        <option value="$PROJECT_DIR$/src/coding/ArraysAndNumbers/MergeAndRemoveDupsLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/arraysAndNumbers/BestTimeToSellStock.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/AnagramListMcAfee.java" />
+        <option value="$PROJECT_DIR$/src/basicJava/stringstudy/AsciiEx.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1679" />
+    <option name="height" value="923" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BasicJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/dataStructures/graphs/MinimumSpanningTree" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FibanocciSeries">
+    <configuration name="AnagramListMcAfee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicJava.stringstudy.AnagramListMcAfee" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicJava.stringstudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="AnagramListMcAfee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicJava.stringstudy.AnagramListMcAfee" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicJava.stringstudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="AsciiEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicJava.stringstudy.AsciiEx" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicJava.stringstudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="BestTimeToSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicJava.arraysAndNumbers.BestTimeToSellStock" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicJava.arraysAndNumbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FibanocciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.ArraysAndNumbers.FibanocciSeries" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding.ArraysAndNumbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BestTimeToSellStock" />
+      <item itemvalue="Application.AnagramListMcAfee" />
+      <item itemvalue="Application.AsciiEx" />
+      <item itemvalue="Application.FibanocciSeries" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FibanocciSeries" />
+        <item itemvalue="Application.AsciiEx" />
+        <item itemvalue="Application.AnagramListMcAfee" />
+        <item itemvalue="Application.BestTimeToSellStock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38a80bf7-4db6-4348-be1d-c6163e39aece" name="Default" comment="" />
+      <created>1530117748933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530117748933</updated>
+      <workItem from="1530117750703" duration="1068000" />
+      <workItem from="1530137561264" duration="611000" />
+      <workItem from="1530220623087" duration="581000" />
+      <workItem from="1530227224992" duration="3489000" />
+      <workItem from="1530291966164" duration="11628000" />
+      <workItem from="1530338503228" duration="2426000" />
+      <workItem from="1530395601435" duration="6692000" />
+      <workItem from="1530464076687" duration="1178000" />
+      <workItem from="1530548972481" duration="8461000" />
+      <workItem from="1530636479341" duration="584000" />
+      <workItem from="1530638583986" duration="16385000" />
+      <workItem from="1530731258114" duration="28699000" />
+      <workItem from="1530830488521" duration="15182000" />
+      <workItem from="1530896836817" duration="594000" />
+      <workItem from="1530989695087" duration="11075000" />
+      <workItem from="1531068459421" duration="617000" />
+      <workItem from="1531076615836" duration="16000" />
+      <workItem from="1531076636158" duration="19314000" />
+      <workItem from="1531149296358" duration="17054000" />
+      <workItem from="1531245306384" duration="7905000" />
+      <workItem from="1531319557976" duration="2240000" />
+      <workItem from="1531362038511" duration="595000" />
+      <workItem from="1531415126967" duration="553000" />
+      <workItem from="1531495850970" duration="587000" />
+      <workItem from="1531671224782" duration="434000" />
+      <workItem from="1531759695140" duration="584000" />
+      <workItem from="1531807003653" duration="523000" />
+      <workItem from="1531844810510" duration="590000" />
+      <workItem from="1531932852539" duration="573000" />
+      <workItem from="1532097731262" duration="570000" />
+      <workItem from="1532193841867" duration="12719000" />
+      <workItem from="1532273921964" duration="10487000" />
+      <workItem from="1532363289075" duration="2144000" />
+      <workItem from="1532453755639" duration="557000" />
+      <workItem from="1532482789295" duration="6337000" />
+      <workItem from="1532536242718" duration="4446000" />
+      <workItem from="1532554927755" duration="16557000" />
+      <workItem from="1532633781970" duration="723000" />
+      <workItem from="1533059092798" duration="911000" />
+      <workItem from="1533147751164" duration="6556000" />
+      <workItem from="1533315920695" duration="279000" />
+      <workItem from="1533316362787" duration="1718000" />
+      <workItem from="1533493255954" duration="8031000" />
+      <workItem from="1533532997923" duration="11538000" />
+      <workItem from="1533592324736" duration="5039000" />
+      <workItem from="1533662526880" duration="1601000" />
+      <workItem from="1533667560664" duration="141000" />
+      <workItem from="1533667723916" duration="14703000" />
+      <workItem from="1533938161732" duration="25907000" />
+      <workItem from="1534354298891" duration="536000" />
+      <workItem from="1534364504346" duration="890000" />
+      <workItem from="1534641023098" duration="15958000" />
+      <workItem from="1534745210889" duration="2285000" />
+      <workItem from="1534873954082" duration="26222000" />
+      <workItem from="1535063863785" duration="2255000" />
+      <workItem from="1535186912775" duration="297000" />
+      <workItem from="1535575055610" duration="1012000" />
+      <workItem from="1536358192641" duration="13043000" />
+      <workItem from="1536726359802" duration="17112000" />
+      <workItem from="1536857468588" duration="2031000" />
+      <workItem from="1537824168748" duration="1110000" />
+      <workItem from="1538433827265" duration="902000" />
+      <workItem from="1538501536036" duration="1535000" />
+      <workItem from="1538884974029" duration="4512000" />
+      <workItem from="1539025917362" duration="3184000" />
+      <workItem from="1539119771409" duration="1441000" />
+      <workItem from="1539144316861" duration="2000000" />
+      <workItem from="1540586463610" duration="4816000" />
+      <workItem from="1540855178192" duration="261000" />
+      <workItem from="1540927046480" duration="5652000" />
+      <workItem from="1540938376350" duration="26000" />
+      <workItem from="1541014551444" duration="2266000" />
+      <workItem from="1541017958285" duration="87000" />
+      <workItem from="1541021838887" duration="1495000" />
+      <workItem from="1541025413342" duration="1539000" />
+      <workItem from="1541098947748" duration="2532000" />
+      <workItem from="1541525593873" duration="9595000" />
+      <workItem from="1541617753892" duration="1415000" />
+      <workItem from="1541619515374" duration="3209000" />
+      <workItem from="1541625733357" duration="1430000" />
+      <workItem from="1541634674150" duration="1443000" />
+      <workItem from="1541794958663" duration="13015000" />
+      <workItem from="1541992195671" duration="1060000" />
+      <workItem from="1542053404885" duration="7609000" />
+      <workItem from="1542238680237" duration="593000" />
+      <workItem from="1542239356290" duration="942000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="446512000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1679" height="923" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3275218" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="8" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4111179" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985056" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="8" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3275218" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coding/dynamicprogramming/FibanocciSeries.java</url>
+          <line>18</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coding/dynamicprogramming/MinimumStepsTo1.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/graphs/DepthFirstSearch/Graphx.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/graphs/DepthFirstSearch/Graphx.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/graphs/DepthFirstSearch/StackEx.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coding/StringCompression.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructuresReStudy/linkedList/LinkedListEx.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructuresReStudy/linkedList/LinkedListEx.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/linkedlist/DetectAndRemoveLoop.java</url>
+          <line>99</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/tree/TreeInOrderTraversal.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/tree/TreeLevelOrderTraversalReverse.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/tree/TreeFindMaximum.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coding/synopsis/SimpleExpressionEvalImpl.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coding/synopsis/SimpleExpressionEvalImpl.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coding/synopsis/SimpleExpressionEvalImpl.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coding/synopsis/SimpleExpressionEvalImpl.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coding/synopsis/SimpleExpressionEvalImpl.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/tree/TreeArithmetic.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/tree/TreeArithmetic.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/ConvertInfixToPostfix.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/ConvertInfixToPostfix.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/ConvertInfixToPostfix.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/sorting/MergeSort.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/sorting/MergeSort1.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/sorting/MergeSort1.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/sorting/MergeSort1.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/sorting/MergeSort1.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/sorting/MergeSort1.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/sorting/MergeSort1.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/sorting/MergeSort.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/sorting/MergeSort.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/sorting/MergeSort.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/sorting/MergeSort.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coding/leetcode/TrappingRainWater_42.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coding/leetcode/TwoSum_1.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coding/leetcode/AddTwoNumbers_2.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coding/leetcode/LongestSubstringNonRepeatChar_3.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coding/leetcode/LongestSubstringNonRepeatChar_3.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/tree/IsTreeBST.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/tree/TreeEx.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/tree/Tree.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/tree/RootToLeafSum.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/tree/RootToLeafSumNodes.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/tree/RootToLeafSumNodes.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructures/tree/RootToLeafSumMatch.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/coding/leetcode/LongestPalindromeSubstring_5.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="91" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/coding/leetcode/ReverseInteger_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/linkedlist/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/TreeCountLeafNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/leetcode/StringToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/TreeArithmetic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/TreeInOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/TreeEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/TreeCreateMirrorAndValidate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/RootToLeafSumNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="52" selection-start-line="30" selection-start-column="8" selection-end-line="37" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/RootToLeafSumMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/TreeHeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/IsTreeBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/TreeBoundaryTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/TreeFindMaximum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/TreeGetLevelofNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" selection-start-line="9" selection-start-column="3" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/TreeLeftView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/ArraysAndStrings/StringReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/ArraysAndNumbers/MergeAndRemoveDupsArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="33" column="52" lean-forward="true" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/ArraysAndNumbers/FindSumPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/leetcode/LongestPalindromeSubstring_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="13" column="57" lean-forward="true" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/ArraysAndStrings/StringSentenceReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/hardQ/StringDuplicateIDsFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/ArraysAndNumbers/MergeAndRemoveDupsLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/ArraysAndNumbers/FindMaxMultiplicationElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/leetcode/TrappingRainWater_42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/ArraysAndNumbers/FindMissingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/leetcode/LongestSubstringNonRepeatChar_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/arraysAndNumbers/MaxSizeSubArraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/arraysAndNumbers/BestTimeToSellStock2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/arraysAndNumbers/BestTimeToSellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/stringstudy/AnagramEx1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-158">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/stringstudy/AnagramEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/stringstudy/AnagramCount1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/stringstudy/AnagramCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/stringstudy/AnagramListMcAfee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/arraysAndNumbers/LeadingElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/stringstudy/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/stringstudy/PermutationCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/stringstudy/ConvertStringToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/stringstudy/AsciiEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/stringstudy/StringPermuation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/ArraysAndNumbers/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/ArraysAndNumbers/FibanocciSeries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/RouteBetweenNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/QueueLinkList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basicJava/stringstudy/AnagramListMcAfee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/PrintOutLineTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/ConvertInfixToPostfix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/RootToLeafSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="26" column="54" selection-start-line="19" selection-start-column="8" selection-end-line="26" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStructures/tree/LowestCommonAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
