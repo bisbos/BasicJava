@@ -1,4 +1,4 @@
-package dataStructures.linkedlist;
+package dataStructures.linkedlistEx;
 
 //https://www.geeksforgeeks.org/reverse-a-linked-list/
 public class ReverseLinkedList {
@@ -15,14 +15,25 @@ public class ReverseLinkedList {
         linkList.head.next.next.next.next = new Link(30);
         linkList.head.next.next.next.next.next = new Link(35);
 
+        display(linkList.head);
         linkList.head=reverseList(linkList.head);
         display(linkList.head);
 
     }
 
-    public static Link reverseList(Link link){
+    /*
+        10 -> 15 -> 20
+        current =10, previous = null, next =null;
+        next = 15, previous =10;current =15;
+        10 <- 15 -> 20
+        next = 20; previous = 15;current = 20;
+        10 <- 15 <- 20
+        next = null, previous = 20; current = null
+        link = previous
+     */
+    public static Link reverseList(Link head){
         Link previous = null;
-        Link currrent = link;
+        Link currrent = head;
         Link next = null;
         while (currrent!=null){
             next = currrent.next;
@@ -30,8 +41,8 @@ public class ReverseLinkedList {
             previous = currrent;
             currrent = next;
         }
-        link = previous;
-        return link;
+        head = previous;
+        return head;
 
     }
 

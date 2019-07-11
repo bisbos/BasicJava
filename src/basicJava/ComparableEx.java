@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class ComparableEx {
+public class ComparableEx implements Comparable<Employee>{
 
     public static void main(String[] args) {
         Employee employee1 = new Employee(3,"Bisin");
@@ -21,5 +21,10 @@ public class ComparableEx {
         Collections.sort(employeeList);
         employeeList.stream().forEach(employee -> System.out.println(employee.getId()+" "+employee.getName()));
 
+    }
+
+    @Override
+    public int compareTo(Employee o) {
+        return 0;
     }
 }

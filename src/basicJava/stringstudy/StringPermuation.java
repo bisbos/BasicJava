@@ -17,7 +17,7 @@ public class StringPermuation {
             System.out.println(prefix);
         }
         for (int i=0;i<value.length();i++){
-           getPermutation(prefix+value.charAt(i),value.substring(0,i)+value.substring(i+1,value.length()));
+           getPermutation(prefix+value.charAt(i),value.substring(0,i)+value.substring(i+1));
         }
     }
 }

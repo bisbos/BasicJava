@@ -9,14 +9,14 @@ package dataStructures.tree;
 
                     14
  */
-public class RootToLeafSum {
+public class RootToLeafSumMaximum {
 
     Node root;
     int maxSum;
     Node maxLeafNode;
     public static void main(String[] args) {
 
-        RootToLeafSum tree = new RootToLeafSum();
+        RootToLeafSumMaximum tree = new RootToLeafSumMaximum();
         tree.root = new Node(20);
         tree.root.leftChild = new Node(12);
         tree.root.leftChild.leftChild = new Node(15);

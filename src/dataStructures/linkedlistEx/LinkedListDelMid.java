@@ -1,8 +1,8 @@
-package dataStructures.linkedlist;
+package dataStructures.linkedlistEx;
 
 public class LinkedListDelMid {
 
-    Link first;
+    Link head;
 
     public static void main(String[] args) {
 
@@ -23,12 +23,12 @@ public class LinkedListDelMid {
 
     public void addFirst(int element){
         Link newLink = new Link(element);
-        newLink.next = first;
-        first = newLink;
+        newLink.next = head;
+        head = newLink;
     }
 
     public void display(){
-        Link current = first;
+        Link current = head;
         while (null!=current){
             System.out.println(current.element);
             current = current.next;
@@ -36,9 +36,9 @@ public class LinkedListDelMid {
     }
 
     public void deleteMid(){
-        Link fast = first;
-        Link previous = first;
-        Link slow = first;
+        Link fast = head;
+        Link previous = head;
+        Link slow = head;
         while (null != fast.next && null != fast.next.next){
             previous = slow;
             slow = fast.next;

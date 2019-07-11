@@ -20,7 +20,7 @@ public class StringPermutation {
         else {
             for (int i = 0; i < word.length(); i++) {
 
-            //    System.out.println("Perm : "+ perm+word.charAt(i)+ " Word : "+ word.substring(0,i)+" "+ word.substring((i+1)));
+                System.out.println("Perm : "+ perm + word.charAt(i)+ " Word : "+ word.substring(0,i)+" "+ word.substring((i+1)));
 
                 doPermutation(perm + word.charAt(i), word.substring(0, i) + word.substring(i + 1));
             }

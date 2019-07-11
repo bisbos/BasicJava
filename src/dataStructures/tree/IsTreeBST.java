@@ -6,11 +6,11 @@ public class IsTreeBST {
 
     public static void main(String[] args) {
         IsTreeBST tree = new IsTreeBST();
-        tree.root = new Node(4);
-        tree.root.leftChild = new Node(2);
-        tree.root.rightChild = new Node(5);
-        tree.root.leftChild.leftChild = new Node(1);
-        tree.root.leftChild.rightChild = new Node(3);
+        tree.root = new Node(10);
+        tree.root.leftChild = new Node(5);
+        tree.root.rightChild = new Node(15);
+        tree.root.leftChild.leftChild=new Node(3);
+        tree.root.leftChild.rightChild = new Node(8);
 
         System.out.println(isBST(tree.root, Integer.MIN_VALUE,Integer.MAX_VALUE));
     }

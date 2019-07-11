@@ -11,24 +11,10 @@ public class FindSumPairs {
 
         Integer[] elementArray ={ 2,7,5,10,8,4,12};
         int result = 12;
-        findSumPairs(elementArray,result);
         findSumPairs1(elementArray,result);
 
     }
 
-    public static void findSumPairs(Integer[] elementArray,int result){
-        Set<Integer> elementSet = new HashSet<>(Arrays.asList(elementArray));
-        Map<Integer,Integer> sumElements = new HashMap<>();
-
-        for (int i=0;i<elementArray.length;i++){
-            if (elementSet.contains(result-elementArray[i])){
-                sumElements.put(elementArray[i],result-elementArray[i]);
-                elementSet.remove(result-elementArray[i]);
-                elementSet.remove(elementArray[i]);
-            }
-        }
-        System.out.println(sumElements);
-    }
 
     public static void findSumPairs1(Integer[] elementArray,int result){
         Arrays.sort(elementArray);

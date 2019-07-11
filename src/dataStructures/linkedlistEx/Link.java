@@ -1,4 +1,4 @@
-package dataStructures.linkedlist;
+package dataStructures.linkedlistEx;
 
 public class Link {
 

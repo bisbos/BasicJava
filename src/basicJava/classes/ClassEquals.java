@@ -17,7 +17,6 @@ public class ClassEquals {
 }
 
 class TestEqual {
-    private String name;
 
     @Override
     public boolean equals(Object obj) {

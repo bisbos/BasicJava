@@ -1,4 +1,4 @@
-package dataStructures.linkedlist;
+package dataStructures.linkedlistEx;
 
 //https://www.youtube.com/watch?v=_BG9rjkAXj8
 
@@ -6,8 +6,8 @@ package dataStructures.linkedlist;
  * 1) Detect Loop using Floyd’s Cycle detection algo and get the pointer to a loop node.
  * 2) Count the number of nodes in loop. Let the count be k.
  * 3) Fix one pointer to the head and another to kth node from head.
- * 4) Move both pointers at the same pace, they will meet at loop starting node.
- * 5) Get pointer to the last node of loop and make next of it as NULL.
+ * 4) Move both pointers at the same pace, they will meet at starting node of the loop.
+ * 5) Move pointer to the last node of loop and make next of it as NULL.
  */
 public class DetectAndRemoveLoop {
 

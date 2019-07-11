@@ -3,7 +3,8 @@ package dataStructures.tree;
 /**
  *
  * The idea is to start from the root and level as 1.
- * If the key matches with root’s data, return level. Else recursively call for left and right subtrees with level as level + 1.
+ * If the key matches with root’s data, return level.
+ * Else recursively call for left and right subtrees with level as level + 1.
  */
 public class TreeGetLevelofNode {
 

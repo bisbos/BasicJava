@@ -1,6 +1,6 @@
-package dataStructures.linkedlist;
+package dataStructures.linkedlistEx;
 
-public class LinkedList {
+public class MyLinkedList {
 
     Link root;
 

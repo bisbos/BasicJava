@@ -13,7 +13,7 @@ package dataStructures.tree;
 public class TreeFindMaximum {
 
     Node root;
-    int maximum = Integer.MIN_VALUE;
+    static int maximum = Integer.MIN_VALUE;
     public static void main(String[] args) {
 
         TreeFindMaximum tree = new TreeFindMaximum();
@@ -26,6 +26,7 @@ public class TreeFindMaximum {
         tree.root.rightChild.rightChild = new Node(80);
         tree.root.rightChild.leftChild = new Node(70);
 
+        System.out.println(getMax(tree.root));
         System.out.println(getMax(tree.root));
     }
 
@@ -46,7 +47,7 @@ public class TreeFindMaximum {
     }
 
 
-    public int getMaximum(Node node){
+    public static int getMaximum(Node node){
         if (node!=null){
             if (maximum<node.element) {
                 maximum = node.element;

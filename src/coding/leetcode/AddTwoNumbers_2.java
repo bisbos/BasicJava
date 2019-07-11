@@ -1,6 +1,6 @@
 package coding.leetcode;
 
-import dataStructures.linkedlist.Link;
+import dataStructures.linkedlistEx.Link;
 
 /**
 

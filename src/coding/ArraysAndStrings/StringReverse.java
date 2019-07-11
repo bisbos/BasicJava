@@ -13,6 +13,6 @@ public class StringReverse {
         if (value.length()<1)
             return value;
         System.out.println(value.substring(1,value.length()) + " "+ value.charAt(0));
-        return reverse(value.substring(1,value.length()))+ value.charAt(0);
+        return reverse(value.substring(1))+ value.charAt(0);
     }
 }

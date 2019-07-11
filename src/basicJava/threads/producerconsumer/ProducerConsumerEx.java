@@ -56,7 +56,7 @@ class Producer extends Thread {
     @Override
     public void run() {
         for (int i=1;i<10;i++){
-            bucket.produce(1);
+            bucket.produce(i);
             System.out.println("Producer :"+i);
             try {
                 sleep((int)(Math.random() * 100));

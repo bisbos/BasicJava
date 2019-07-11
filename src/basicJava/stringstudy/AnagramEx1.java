@@ -7,7 +7,7 @@ public class AnagramEx1 {
 
     public static void main(String[] args){
         String word1 = "eat";
-        String word2 = "ace";
+        String word2 = "ate";
 
         boolean flag = checkAnagram(word1,word2);
         if (flag){
@@ -26,20 +26,14 @@ public class AnagramEx1 {
         Map<Character,Integer> charMap = new HashMap<Character, Integer>();
 
         for (int i=0;i<word1.length();i++){
-            int count =1;
-            if (charMap.get(word1.charAt(i))!=null){
-                count = charMap.get(word1.charAt(i))+1;
-            }
-            charMap.put(word1.charAt(i),count);
+            int  count = charMap.getOrDefault(word1.charAt(i),0);
+            charMap.put(word1.charAt(i),++count);
         }
 
 
         for (int i=0;i<word2.length();i++){
-            int count = 1;
-            if (charMap.get(word2.charAt(i))!=null){
-                count = charMap.get(word2.charAt(i))-1;
-            }
-            charMap.put(word2.charAt(i),count);
+            int count = charMap.getOrDefault(word2.charAt(i),0);
+            charMap.put(word2.charAt(i),--count);
         }
 
         for (Integer value:charMap.values()){

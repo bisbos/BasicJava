@@ -14,8 +14,9 @@ public class LongestPalindromeSubstring_5 {
             System.out.println(getPalindrome(input,i,i));
         }
 
-    /*    LongestPalindromeSubstring_5 obj = new LongestPalindromeSubstring_5();
-        System.out.println(obj.longestPalindrome(input)); */
+        System.out.println("--------");
+       LongestPalindromeSubstring_5 obj = new LongestPalindromeSubstring_5();
+        System.out.println(obj.longestPalindrome(input));
 
     }
 
@@ -36,7 +37,7 @@ public class LongestPalindromeSubstring_5 {
             return s;
         }
 
-        String longest = s.substring(0, 1);
+        String longest = new String();
         for (int i = 0; i < s.length(); i++) {
             // get longest palindrome with center of i
             String tmp = helper(s, i, i);

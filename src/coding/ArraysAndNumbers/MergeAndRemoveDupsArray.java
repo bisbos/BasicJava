@@ -2,6 +2,13 @@ package coding.ArraysAndNumbers;
 
 import java.util.Arrays;
 
+
+/**
+ *
+ * Time Complexity : O (nlogn + mlogm + (n + m))
+ * Space Complexity : O ( (n + m)
+ *
+ */
 public class MergeAndRemoveDupsArray {
 
     public static void main(String[] args) {
